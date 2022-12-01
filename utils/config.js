@@ -37,7 +37,7 @@ const defaultConfig = {
     },
     settings: {
         windowMode: true,
-        partnerId: 'PARTNER ID',
+        partnerId: 'gregtest',
         wizardDomain: 'embedded.tray.io',
     },
     content: {
